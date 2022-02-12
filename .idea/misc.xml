@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_flag.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_like.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_return.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/drawable/ic_trash.xml" value="0.3828125" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/country_grid_item.xml" value="0.5" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/favoriteplayer_item.xml" value="0.2341485507246377" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/fragment_country.xml" value="0.33" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/fragment_favorites.xml" value="0.2341485507246377" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/fragment_search_player.xml" value="0.20520833333333333" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/player_details.xml" value="0.33" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/layout/searchplayer_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/menu/bottom_navigation_menu_details.xml" value="0.2171875" />
+        <entry key="..\:/MesDocuments/Documents/COURS/MASTER/projet_tac/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/layout/favoriteplayer_item.xml" value="0.536" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/layout/fragment_search_player.xml" value="0.264" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/layout/searchplayer_item.xml" value="0.6" />
+        <entry key="..\:/Users/touto/Documents/ECOLE/1 - MASTER/projet_tac/app/src/main/res/menu/bottom_app_bar.xml" value="0.23229166666666667" />
+        <entry key="app/src/main/res/drawable/ic_add_24dp.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/ic_flag.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/ic_like.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/drawable/ic_lover.xml" value="0.1898261477512262" />
+        <entry key="app/src/main/res/drawable/ic_menu_24dp.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/ic_player.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/drawable/ic_search_24dp.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_search_player.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/searchplayer_item.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_app_bar.xml" value="0.1890625" />
+        <entry key="app/src/main/res/menu/navigation.xml" value="0.1890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

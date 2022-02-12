@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".view.SearchPlayerFragment">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchPlayerText"
+        android:layout_width="56dp"
+        android:layout_height="52dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="30dp"
+        app:queryBackground="@null" />
+
+    <View
+        android:id="@+id/barreHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@+id/searchPlayerText"
+        android:layout_marginTop="5dp"
+        android:background="#c0c0c0" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/barreHorizontal"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="30dp"
+        android:paddingBottom="20dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="135dp"
+        android:layout_height="127dp"
+        android:layout_alignStart="@+id/recyclerViewSearch"
+        android:layout_alignTop="@+id/recyclerViewSearch"
+        android:layout_alignEnd="@+id/recyclerViewSearch"
+        android:layout_alignBottom="@+id/recyclerViewSearch"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="207dp"
+        android:layout_marginEnd="119dp"
+        android:layout_marginBottom="305dp" />
+
+</RelativeLayout>

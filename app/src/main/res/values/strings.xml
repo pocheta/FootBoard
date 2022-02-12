@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Footboard</string>
+    <string name="favorites">Favoris</string>
+    <string name="players">Joueurs</string>
+    <string name="flag">Drapeau</string>
+    <string name="retour">Retour</string>
+    <string name="vider_les_favoris">Vider les favoris</string>
+    <string name="aucun_joueurs_en_favoris">Aucun joueurs en favoris</string>
+    <string name="ajouter_le_joueur_aux_favoris">Ajouter le joueur aux favoris</string>
+    <string name="image_joueur">image joueur</string>
+    <string name="image_favorite">image favorite</string>
+    <string name="drapeau_du_pays">Drapeau du pays</string>
+</resources>
