@@ -1,7 +1,5 @@
 # ⚽ FootBoard ⚽
 
-Binôme : Michot Julien - Pochet Antoine
-
 Voici le dépôt du Projet final de TAC.
 
 Notre application Android permet de decouvrir des joueurs de football triés par de nombreux pays et de les garder en favoris. Elle implémente une architecture MVVM et le pattern repository.
